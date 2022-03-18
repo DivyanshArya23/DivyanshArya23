@@ -10,24 +10,20 @@
 
 <!-- Guthub Stats -->
 ### Github Stats
-<br />
 
 <img src="https://komarev.com/ghpvc/?username=DivyanshArya23" alt="DivyanshArya23"/>
 <a align="left" href="https://wakatime.com/@4c8ffe74-7692-4517-8b53-36c4713cd04a">
     <img src="https://wakatime.com/badge/user/4c8ffe74-7692-4517-8b53-36c4713cd04a.svg" alt="Total time coded since Mar 18 2022" />
 </a>
-<br />
 
 <!-- Trophy Stats -->
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DivyanshArya23&theme=algolia" alt="Trophy Stats" /></a>
-<br />
+
 
 <!-- stats -->
 <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=DivyanshArya23&theme=algolia&show_icons=true&count_private=true&locale=en" alt="github stats" />
 <!-- streak -->
 <img align="left" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=DivyanshArya23&theme=algolia" alt="github streak" />    
-
-<br />
 
 <!-- Top Languages -->
 <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyanshArya23&theme=algolia&count_private=true&hide=jupyter notebook&locale=en&layout=compact" alt="top languages" />
@@ -35,8 +31,6 @@
 <!-- <img align="right" width ="45%" src="https://stormotion.io/blog/content/images/2018/12/developer.gif" alt="Developer Gif" /> -->
 <img align="left" width ="50%" src="https://github-readme-stats.vercel.app/api/wakatime/?username=DivyanshArya23&theme=algolia&layout=compact" alt="Wakatime Stats" />
 
-<br />
-<br />    
 
 <!-- Languages & Tools -->
 
@@ -59,11 +53,7 @@
 <img align="left" height="40px" width="35px" style="padding-right:10px;" alt="bash" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" />
 <img align="left" height="40px" width="35px" style="padding-right:10px;" alt="postman" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" /> 
 
-<br />
-
 <!-- Connect With Me -->
-
-<br /><br />
 
 ### Connect with me:
 <a href="https://www.linkedin.com/in/divyansharya" target="_blank">
@@ -72,5 +62,3 @@
 <a href="mailto:divyansh15047arya@gmail.com" target="_blank">
     <img align="left" width="32" alt="LinkedIn" src="https://img.icons8.com/color/344/gmail-new.png" />
 </a>
-<br />
-<br />
