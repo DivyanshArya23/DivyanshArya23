@@ -45,7 +45,8 @@
 <br />    
 
 <!-- Languages & Tools -->
-<div style="margin-top:3rem;" ></div>
+
+<p  >
 <h3 align="left" >Languages & Tools</h3>
 <div align="left" style="width:50%">
   <img align="left" height="40px" width="35px" style="padding-right:10px;" alt="React"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
@@ -66,6 +67,7 @@
     <img align="left" height="40px" width="35px" style="padding-right:10px;" alt="bash" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" />
     <img align="left" height="40px" width="35px" style="padding-right:10px;" alt="postman" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" /> 
 </div>
+</p>
 <br />
 
 <!-- Connect With Me -->
