@@ -1,4 +1,5 @@
 <!-- About Me -->
+
 ## Hi 👋, I’m Divyansh Arya
 
 - 🔭 I’m currently working on Developing React PWA/Web Applications.
@@ -9,7 +10,9 @@
 - 🎮 PC Gaming Enthusiast, currently plays [Valorant](https://playvalorant.com/), reach out if you wanna play together
 
 <!-- Guthub Stats -->
+
 ### Github Stats
+
 <p>
 <img src="https://komarev.com/ghpvc/?username=DivyanshArya23" alt="DivyanshArya23"/>
 <a align="left" href="https://wakatime.com/@4c8ffe74-7692-4517-8b53-36c4713cd04a">
@@ -18,13 +21,15 @@
 </p>
 
 <!-- Trophy Stats -->
+
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DivyanshArya23&theme=algolia" alt="Trophy Stats" /></a>
 
 <p>
 <!-- stats -->
 <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=DivyanshArya23&theme=algolia&show_icons=true&count_private=true&locale=en" alt="github stats" />
 <!-- streak -->
-<img align="left" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=DivyanshArya23&theme=algolia" alt="github streak" />    
+<img align="left" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=DivyanshArya23&theme=algolia" alt="github streak" />
+    <img align="right" width ="50%" src="https://stormotion.io/blog/content/images/2018/12/developer.gif" alt="Developer Gif" />
 </p>
 
 <!-- Top Languages -->
@@ -32,7 +37,6 @@
 <!-- Wakatime -->
 <!-- <img align="right" width ="45%" src="https://stormotion.io/blog/content/images/2018/12/developer.gif" alt="Developer Gif" /> -->
 <img align="left" width ="50%" src="https://github-readme-stats.vercel.app/api/wakatime/?username=DivyanshArya23&theme=algolia&layout=compact" alt="Wakatime Stats" />
-
 
 <!-- Languages & Tools -->
 
@@ -53,11 +57,12 @@
 <img align="left" height="40px" width="35px" style="padding-right:10px;" alt="Git"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" height="40px" width="35px" style="padding-right:10px;" alt="GitHub" src="https://img.icons8.com/ios-glyphs/30/000000/github.png" />
 <img align="left" height="40px" width="35px" style="padding-right:10px;" alt="bash" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" />
-<img align="left" height="40px" width="35px" style="padding-right:10px;" alt="postman" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" /> 
+<img align="left" height="40px" width="35px" style="padding-right:10px;" alt="postman" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
 
 <!-- Connect With Me -->
 
 ### Connect with me:
+
 <a href="https://www.linkedin.com/in/divyansharya" target="_blank">
     <img align="left" width="32" alt="LinkedIn" src="https://img.icons8.com/fluency/48/000000/linkedin.png" />
 </a>
