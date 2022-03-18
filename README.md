@@ -28,9 +28,9 @@
 
 <p>
     <!-- stats -->
-    <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=DivyanshArya23&theme=algolia&show_icons=true&count_private=true&locale=en" alt="github stats" />
+    <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=DivyanshArya23&theme=algolia&show_icons=true&count_private=true&locale=en" alt="github stats" />
     <!-- streak -->
-    <img align="right" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=DivyanshArya23&theme=algolia" alt="github streak" />    
+    <img align="right" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=DivyanshArya23&theme=algolia" alt="github streak" />    
 </p>
 <p>
     <!-- Top Languages -->
