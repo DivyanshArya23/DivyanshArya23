@@ -33,14 +33,14 @@
 <p>
 <img style="float:left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyanshArya23&theme=algolia&count_private=true&hide=jupyter notebook&locale=en&layout=compact" alt="top languages" />
 <img style="float:right" width ="48%" src="https://stormotion.io/blog/content/images/2018/12/developer.gif" alt="Developer Gif" />
-<img style="float:left" width ="48%" src="https://github-readme-stats.vercel.app/api/wakatime/?username=DivyanshArya23&theme=algolia&layout=compact" alt="Wakatime Stats" />
+<img style="float:left" width ="48%" src="https://github-readme-stats.vercel.app/api/wakatime/?username=DivyanshArya23&theme=algolia&layout=compact&v=2" alt="Wakatime Stats" />
 </p>
 <br />
 <br />
 
 <!-- Languages & Tools -->
-<p>
-<h3> Languages & Tools</h3><img style="float:right" width ="48%" src="https://i.pinimg.com/originals/49/84/c0/4984c0ac41b13002de2873e622efa63c.gif" alt="Developer Gif" />
+<p style="float:left;max-width:48%">
+<h3> Languages & Tools</h3>
 
 <img height="40px" width="35px" style="padding-right:10px;" alt="React"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img height="40px" width="35px" style="padding-right:10px;" alt="Node.js"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
@@ -70,3 +70,5 @@
 <a href="mailto:divyansh15047arya@gmail.com" target="_blank">
 <img align="left" width="32" alt="LinkedIn" src="https://img.icons8.com/color/344/gmail-new.png" />
 </a> 
+
+<img style="float:right" width ="48%" src="https://i.pinimg.com/originals/49/84/c0/4984c0ac41b13002de2873e622efa63c.gif" alt="Developer Gif" />
