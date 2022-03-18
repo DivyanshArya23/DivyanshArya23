@@ -17,18 +17,18 @@
 <a align="left" href="https://wakatime.com/@4c8ffe74-7692-4517-8b53-36c4713cd04a">
 <img src="https://wakatime.com/badge/user/4c8ffe74-7692-4517-8b53-36c4713cd04a.svg" alt="Total time coded since Mar 18 2022" />
 </a>
-</p> -->
+</p>
 
 <!-- Trophy Stats -->
 
-<!-- <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DivyanshArya23&theme=algolia" alt="Trophy Stats" /></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DivyanshArya23&theme=algolia" alt="Trophy Stats" /></a>
 
 <p>
 <!-- stats -->
 <img float="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=DivyanshArya23&theme=algolia&show_icons=true&count_private=true&locale=en" alt="github stats" />
 <!-- streak -->
 <img float="right" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=DivyanshArya23&theme=algolia" alt="github streak" />
-<img float="right" width ="48%" src="https://stormotion.io/blog/content/images/2018/12/developer.gif" alt="Developer Gif" />
+<!-- <img float="right" width ="48%" src="https://stormotion.io/blog/content/images/2018/12/developer.gif" alt="Developer Gif" /> -->
 </p>
 <img float="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyanshArya23&theme=algolia&count_private=true&hide=jupyter notebook&locale=en&layout=compact" alt="top languages" />
 <img float="left" width ="48%" src="https://github-readme-stats.vercel.app/api/wakatime/?username=DivyanshArya23&theme=algolia&layout=compact" alt="Wakatime Stats" />
