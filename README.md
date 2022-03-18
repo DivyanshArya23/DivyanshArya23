@@ -30,12 +30,12 @@
 <!-- streak -->
 <img float="right" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=DivyanshArya23&theme=algolia" alt="github streak" />
 </p>
-<p float="left">
-<img  width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyanshArya23&theme=algolia&count_private=true&hide=jupyter notebook&locale=en&layout=compact" alt="top languages" />
-<img width ="48%" src="https://github-readme-stats.vercel.app/api/wakatime/?username=DivyanshArya23&theme=algolia&layout=compact" alt="Wakatime Stats" />
+<p>
+<img float="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyanshArya23&theme=algolia&count_private=true&hide=jupyter notebook&locale=en&layout=compact" alt="top languages" />
+<img float="right" width ="48%" src="https://stormotion.io/blog/content/images/2018/12/developer.gif" alt="Developer Gif" />
 </p>
-<p float="right">
-<img width ="48%" src="https://stormotion.io/blog/content/images/2018/12/developer.gif" alt="Developer Gif" />
+<p>
+<img float="left" width ="48%" src="https://github-readme-stats.vercel.app/api/wakatime/?username=DivyanshArya23&theme=algolia&layout=compact" alt="Wakatime Stats" />
 </p>
 
 <!-- Languages & Tools -->
