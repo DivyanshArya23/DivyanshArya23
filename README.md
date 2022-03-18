@@ -73,4 +73,4 @@
 <br />
 
 <!-- <img style="float:right" width ="48%" src="https://i.pinimg.com/originals/49/84/c0/4984c0ac41b13002de2873e622efa63c.gif" alt="Developer Gif" /> -->
-<img style="float:right" width ="48%" src="https://stormotion.io/blog/content/images/2018/12/developer.gif" alt="Developer Gif" />
+<img width ="48%" src="https://stormotion.io/blog/content/images/2018/12/developer.gif" alt="Developer Gif" />
