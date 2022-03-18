@@ -25,7 +25,9 @@
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DivyanshArya23&theme=algolia" alt="Trophy Stats" /></a>
 
 <p>
+<!-- stats -->
 <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=DivyanshArya23&theme=algolia&show_icons=true&count_private=true&locale=en" alt="github stats" />
+<!-- streak -->
 <img align="right" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=DivyanshArya23&theme=algolia" alt="github streak" />
 <img align="right" width ="48%" src="https://stormotion.io/blog/content/images/2018/12/developer.gif" alt="Developer Gif" />
 </p>
@@ -37,7 +39,7 @@
 
 <!-- Languages & Tools -->
 
-### Languages & Tools
+
 
 <img align="left" height="40px" width="35px" style="padding-right:10px;" alt="React"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" height="40px" width="35px" style="padding-right:10px;" alt="Node.js"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
@@ -58,7 +60,7 @@
 
 <!-- Connect With Me -->
 
-### Connect with me:
+
 
 <a href="https://www.linkedin.com/in/divyansharya" target="_blank">
 <img align="left" width="32" alt="LinkedIn" src="https://img.icons8.com/fluency/48/000000/linkedin.png" />
