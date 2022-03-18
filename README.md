@@ -31,15 +31,12 @@
 <img align="right" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=DivyanshArya23&theme=algolia" alt="github streak" />
 <img align="right" width ="48%" src="https://stormotion.io/blog/content/images/2018/12/developer.gif" alt="Developer Gif" />
 </p>
-<!-- Top Languages -->
-<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyanshArya23&theme=algolia&count_private=true&hide=jupyter notebook&locale=en&layout=compact" alt="top languages" />
-<!-- Wakatime -->
-<!-- <img align="right" width ="45%" src="https://stormotion.io/blog/content/images/2018/12/developer.gif" alt="Developer Gif" /> -->
-<img align="left" width ="50%" src="https://github-readme-stats.vercel.app/api/wakatime/?username=DivyanshArya23&theme=algolia&layout=compact" alt="Wakatime Stats" />
+<!-- <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyanshArya23&theme=algolia&count_private=true&hide=jupyter notebook&locale=en&layout=compact" alt="top languages" />
+<img align="left" width ="50%" src="https://github-readme-stats.vercel.app/api/wakatime/?username=DivyanshArya23&theme=algolia&layout=compact" alt="Wakatime Stats" /> -->
 
 <!-- Languages & Tools -->
 
-
+<!-- 
 
 <img align="left" height="40px" width="35px" style="padding-right:10px;" alt="React"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" height="40px" width="35px" style="padding-right:10px;" alt="Node.js"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
@@ -67,4 +64,4 @@
 </a>
 <a href="mailto:divyansh15047arya@gmail.com" target="_blank">
 <img align="left" width="32" alt="LinkedIn" src="https://img.icons8.com/color/344/gmail-new.png" />
-</a>
+</a> -->
